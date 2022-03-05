@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Bhupesh494/NodeJS/issues"
   },
-  "homepage": "https://github.com/Bhupesh494/NodeJS#readme"
+  "homepage": "https://github.com/Bhupesh494/NodeJS#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
