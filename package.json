@@ -1,7 +1,7 @@
 {
-  "name": "crash-course",
+  "name": "NodeJS_NetNinjaCourse",
   "version": "1.0.0",
-  "description": "a node crash course",
+  "description": "��#\u0000 \u0000N\u0000o\u0000d\u0000e\u0000J\u0000S\u0000\r\u0000 \u0000",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,19 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/node-crash-course.git"
+    "url": "git+https://github.com/Bhupesh494/NodeJS.git"
   },
-  "author": "net ninja",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamshaunjp/node-crash-course/issues"
+    "url": "https://github.com/Bhupesh494/NodeJS/issues"
   },
-  "homepage": "https://github.com/iamshaunjp/node-crash-course#readme",
+  "homepage": "https://github.com/Bhupesh494/NodeJS#readme",
   "dependencies": {
-    "ejs": "^3.1.2",
-    "express": "^4.17.1",
-    "lodash": "^4.17.15",
-    "mongoose": "^5.9.10",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.2.4",
     "morgan": "^1.10.0"
   }
 }
